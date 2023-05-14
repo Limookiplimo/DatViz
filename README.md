@@ -1,5 +1,5 @@
 # Adidas Sales
-Cleaning, EDA, wrangling and vizualization of Adidas sales data.
+Cleaning, EDA, wrangling and vizualization of data.
 
 
 ## Notebook
